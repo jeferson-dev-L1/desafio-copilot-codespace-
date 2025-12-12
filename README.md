@@ -1,79 +1,75 @@
 # Resolvendo Códigos em Python com GitHub Copilot
 
-Olá!!! Neste Projetos veremos algumas resoluções em python, utilizando Copilot e ChatGPT
-
-1. Concatenar
-Descrição:
-Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
-
-O que aprenderemos?
-
-* Manipulação de Strings (string)
-* Concatenação
-* Entrada de dados
-* Utilização eficiente do Github Copilot
-
-<br>
-
-## 2 - Repetindo Textos ✏️
+📌 1- Concatenar Dados
 
 Descrição:
-Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
+Recebemos dois dados fornecidos pelo usuário e unimos em uma única string.
 
-O que aprenderemos?
+O que aprendemos?
+. Manipulação de strings
+. Concatenação
+. Entrada de dados usando input()
+. Sugestões e preenchimentos com GitHub Copilot
 
-* Manipulação de Strings (string)
-* Números Inteiros (int)
-* Múltiplas repetições
-* Entrada de dados
-* Aproveitar as sugestões do Github Copilot
-
-<br>
-
-## 3 - Operações Matemáticas Simples 📐
+📚 2- Calculando Média de Notas
 
 Descrição:
-Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+Recebemos 4 notas e calculamos a média aritmética simples.
 
 O que aprenderemos?
+•	Armazenamento de dados em variáveis
+•	Operadores aritméticos
+•	Cálculo de média
+•	Melhoria da lógica com ajuda do Copilot
 
-* Operações Matemáticas Básicas
-* Entrada de dados
-* Utilização eficiente do Github Copilot
+📐 3 - Operações Matemáticas Simples
 
-<br>
-
-## 4 - Verificando Números Pares e Ímpares 🧮
-
-Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
-Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
+Descrição:
+Solicitamos dois números e realizamos uma operação matemática básica entre eles.
 
 O que aprenderemos?
-* Utilização de condicionais em Python (if, else) para realizar verificações.
-* Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+•	Operações matemáticas básicas (+, -, *, /)
+•	Entrada de dados numéricos
+•	Aplicação de funções simples
+•	Como o Copilot pode sugerir estruturas matemáticas prontas
 
+🧮 4 - Verificando Números Pares e Ímpares
 
-<br>
-
-## 5 - Calculando Média de Notas 📚
-
-Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
-Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
+Descrição:
+O programa recebe um número inteiro e verifica se ele é par ou ímpar utilizando condicionais.
 
 O que aprenderemos?
-* Uso de variáveis para armazenar dados fornecidos pelo usuário.
-* Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
-* Prática na solicitação e manipulação de entrada do usuário.
+•	Estruturas condicionais (if, else)
+•	Operador módulo (%)
+•	Lógica para identificar números pares e ímpares
+•	Sugestões estruturadas do GitHub Copilot para condicionais
 
-<br>
+🔄 6 - Verificando Palíndromos
 
-## 6 - Verificando Palíndromos 🔄
-
-Descrição: Vamos testar se uma palavra é um palíndromo?! 
-Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
+Descrição:
+O usuário informa uma palavra e o programa determina se ela é um palíndromo (a palavra permanece igual mesmo invertida).
 
 O que aprenderemos?
-* Manipulação de strings em Python, especialmente invertendo uma string.
-* Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
-* Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+•	Manipulação de strings
+•	Como inverter strings em Python usando slicing
+•	Comparação entre strings
+•	Conceito de palíndromos aplicado em lógica de programação
+
+✏️ 7- Repetindo Textos
+Descrição:
+O usuário informa uma string e um número inteiro. O programa retorna a string repetida a quantidade de vezes informada.
+O que aprenderemos?
+•	Manipulação de strings
+•	Uso de números inteiros (int)
+•	Repetição de strings em Python
+•	Entrada de dados
+•	Uso prático do Copilot para agilizar a escrita do código
+
+
+
+
+
+
+
+
+
